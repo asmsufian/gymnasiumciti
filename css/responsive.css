@@ -1,0 +1,662 @@
+
+
+/*================================ extra small device============================= */
+
+
+@media(max-width:575.98px){
+  
+    nav{
+        top: 10px;
+    }
+   
+    nav .navbar-brand {
+	position: static;
+	transform: skew(0deg);
+    background: transparent;
+  padding: 0;
+        padding-left: 10px;
+}
+   nav .navbar-brand img {
+	transform: skew(0deg);
+} 
+    nav button i{
+        color: #fff;
+    }
+   
+    nav ul li{
+        background: #000;
+        text-align: center;
+    }
+    #banner-part .banner .overlay {
+	padding-top: 150px;
+	padding-bottom: 80px;
+}
+    
+    
+    #banner-part .banner .overlay p{
+        width: auto;
+    }
+    
+    
+    #banner-part .banner .overlay h3::before{
+        width: 0;
+    }
+    #banner-part .banner .overlay h3::after{
+        width: 0;
+    }
+    #banner-part .banner .overlay h1::before{
+        width: 0;
+    }
+    #banner-part .banner .overlay h1::after{
+        width: 0;
+    }
+   
+    #banner-part .banner .overlay p::before{
+        width: 0;
+    }
+    #banner-part .banner .overlay p::after{
+        width: 0;
+    }
+    
+    .title {
+	margin-top: 30px;
+}
+    
+    
+    #gallery-part {
+	margin-top: 40px;
+    }
+    #gallery-part .gallery .overlay ul{
+        flex-direction: column;
+    }
+    #gallery-part .gallery .overlay ul li{
+        width: 100%;
+    }
+    #team-part .member img {
+	margin-top: 40px;
+}
+    #team-part .title {
+	margin-bottom: 35px;
+
+    }
+    #testi-part .testi .overlay .top{
+        padding-left: 25px;
+    }
+    #testi-part .testi .overlay .bottom{
+        padding-left: 25px;
+    }
+    #membership-part .regular {
+	margin-top: 20px;
+}
+    #class-part .colorful-tab-menu li{
+        width: 15.5%;
+    }  
+    .colorful-tab-menu{
+        display: block ruby;
+    }
+    #class-part .item{
+        width: 31.9%;
+    }
+    
+    #sponser-part .slick-slide img{
+        margin: 0 auto;
+    }
+    
+    #sponser-part .next{
+        right: 60px;
+    }
+    #sponser-part .prev{
+        left: 60px;
+    }
+    #footer-part .overlay .copy {
+	padding-top: 26px;
+	margin-top: 35px;
+}
+    
+    
+    
+   
+    
+}
+
+/*============================== extra small device  ============================*/
+
+
+/*=============================== small device ==================================== */
+
+@media(min-width:576px) and (max-width:767.98px){
+  
+    nav{
+        top: 10px;
+    }
+   
+    nav .navbar-brand {
+	position: static;
+	transform: skew(0deg);
+    background: transparent;
+  padding: 0;
+        padding-left: 10px;
+}
+   nav .navbar-brand img {
+	transform: skew(0deg);
+} 
+    nav button i{
+        color: #fff;
+    }
+   
+    nav ul li{
+        background: #000;
+        text-align: center;
+    }
+    #banner-part .banner .overlay {
+	padding-top: 150px;
+	padding-bottom: 80px;
+}
+    
+    
+    #banner-part .banner .overlay p{
+        width: auto;
+    }
+    
+    
+    #banner-part .banner .overlay h3::before{
+        width: 0;
+    }
+    #banner-part .banner .overlay h3::after{
+        width: 0;
+    }
+    #banner-part .banner .overlay h1::before{
+        width: 0;
+    }
+    #banner-part .banner .overlay h1::after{
+        width: 0;
+    }
+   
+    #banner-part .banner .overlay p::before{
+        width: 0;
+    }
+    #banner-part .banner .overlay p::after{
+        width: 0;
+    }
+    
+    .title {
+	margin-top: 30px;
+}
+    
+    
+    #gallery-part {
+	margin-top: 40px;
+    }
+    #gallery-part .gallery .overlay ul{
+        flex-direction: column;
+    }
+    #gallery-part .gallery .overlay ul li{
+        width: 100%;
+    }
+    #team-part .member img {
+	margin-top: 40px;
+}
+    #team-part .title {
+	margin-bottom: 0px;
+
+    }
+    #testi-part .testi .overlay .top{
+        padding-left: 25px;
+    }
+    #testi-part .testi .overlay .bottom{
+        padding-left: 25px;
+    }
+    #membership-part .regular {
+	margin-top: 20px;
+}
+    #membership-part .regular h2{
+        font-size: 17px;
+    }
+    #membership-part .price .overlay p{
+        font-size: 25px;
+    }
+    #membership-part .price1 .overlay p{
+        font-size: 25px;
+    }
+    #membership-part .price2 .overlay p{
+        font-size: 25px;
+    }
+    
+    
+    #membership-part .price .overlay p span{
+        font-size: 25px;
+    }
+    #class-part .colorful-tab-menu li{
+        width: 15.5%;
+    } 
+    
+    #membership-part .price1 .overlay p span{
+        font-size: 25px;
+    }
+    
+    
+    #membership-part .price2 .overlay p span{
+        font-size: 25px;
+    }
+    
+    #membership-part ul li{
+        padding-top: 20px;
+    }
+    
+    .colorful-tab-menu{
+        display: block ruby;
+    }
+    #class-part .item{
+        width: 31.9%;
+    }
+    
+    #sponser-part .slick-slide img{
+        margin: 0 auto;
+    }
+    
+    #sponser-part .next{
+        right: 60px;
+    }
+    #sponser-part .prev{
+        left: 60px;
+    }
+    #footer-part .overlay .copy {
+	padding-top: 26px;
+	margin-top: 35px;
+}
+    #team-part .member{
+        margin-top: 50px;
+    } 
+    #sponser-part .prev{
+        left: 0;
+    }
+    
+    #sponser-part .next{
+        right: 0;
+    }
+ #footer-part .overlay .photo {
+	margin: -9px;
+}
+    
+}
+
+
+/*============== small device===============================================*/
+
+
+
+
+/*====================large device===========================================*/
+
+@media(min-width:768px) and (max-width:991.98px){
+  
+    nav{
+        top: 10px;
+    }
+   
+    nav .navbar-brand {
+	position: static;
+	transform: skew(0deg);
+    background: transparent;
+  padding: 0;
+        padding-left: 10px;
+}
+   nav .navbar-brand img {
+	transform: skew(0deg);
+} 
+    nav button i{
+        color: #fff;
+    }
+   
+    nav ul li{
+        background: #000;
+        text-align: center;
+    }
+    #banner-part .banner .overlay {
+	padding-top: 150px;
+	padding-bottom: 80px;
+}
+    
+    
+/*
+    #banner-part .banner .overlay p{
+        width: auto;
+    }
+    
+*/
+    
+    #banner-part .banner .overlay h3::before{
+        left: 110%;
+        width: 102%;
+    }
+    #banner-part .banner .overlay h3::after{
+        left: -112%;
+        width: 102%;
+    }
+    #banner-part .banner .overlay h1::before{
+        right: 10%;
+    }
+    #banner-part .banner .overlay h1::after{
+        left: 10%;
+    }
+   
+    #banner-part .banner .overlay p::before{
+        width: 18%;
+    }
+    #banner-part .banner .overlay p::after{
+        width: 21%;
+        left: -4%;
+    }
+    
+    .title {
+	margin-top: 30px;
+}
+    
+    
+    #gallery-part {
+	margin-top: 40px;
+    }
+    
+    #team-part .member img {
+	margin-top: 40px;
+}
+    #team-part .title {
+	margin-bottom: 0px;
+
+    }
+    #testi-part .testi .overlay .top{
+        padding-left: 25px;
+    }
+    #testi-part .testi .overlay .bottom{
+        padding-left: 25px;
+    }
+    #membership-part .regular {
+	margin-top: 20px;
+}
+    #membership-part .regular h2{
+        font-size: 17px;
+    }
+    #membership-part .price .overlay p{
+        font-size: 25px;
+    }
+    #membership-part .price1 .overlay p{
+        font-size: 25px;
+    }
+    #membership-part .price2 .overlay p{
+        font-size: 25px;
+    }
+    
+    
+    #membership-part .price .overlay p span{
+        font-size: 25px;
+    }
+    #class-part .colorful-tab-menu li{
+        width: 15.5%;
+    } 
+    
+    #membership-part .price1 .overlay p span{
+        font-size: 25px;
+    }
+    
+    
+    #membership-part .price2 .overlay p span{
+        font-size: 25px;
+    }
+    
+    #membership-part ul li{
+        padding-top: 20px;
+    }
+    
+    .colorful-tab-menu{
+        display: block ruby;
+    }
+    #class-part .item{
+        width: 31.9%;
+    }
+    
+    #sponser-part .slick-slide img{
+        margin: 0 auto;
+    }
+    
+    #sponser-part .next{
+        right: 60px;
+    }
+    #sponser-part .prev{
+        left: 60px;
+    }
+    #footer-part .overlay .copy {
+	padding-top: 26px;
+	margin-top: 35px;
+}
+    #team-part .member{
+        margin-top: 50px;
+    } 
+    #sponser-part .prev{
+        left: -12px;
+    }
+    
+    #sponser-part .next{
+        right: -12px;
+    }
+    #footer-part .overlay .photo img{
+        margin: 3px;
+    }
+    #footer-part .overlay .photo{
+        justify-content: flex-start;
+    }
+    
+}
+
+
+/*=================large device======================================*/
+
+
+
+
+
+
+
+/*=================extra large device======================================*/
+
+@media(min-width:992px) and (max-width:1199.98px){
+  
+    nav{
+        top: 10px;
+    }
+   
+    nav .navbar-brand {
+	position: static;
+	transform: skew(0deg);
+    background: transparent;
+  padding: 0;
+        padding-left: 10px;
+}
+   nav .navbar-brand img {
+	transform: skew(0deg);
+} 
+    nav button i{
+        color: #fff;
+    }
+   
+    nav ul li{
+        background: #000;
+        text-align: center;
+        margin: -2px;
+    }
+    #banner-part .banner .overlay {
+	padding-top: 150px;
+	padding-bottom: 80px;
+}
+    
+    
+/*
+    #banner-part .banner .overlay p{
+        width: auto;
+    }
+    
+*/
+    
+    #banner-part .banner .overlay h3::before{
+        left: 124%;
+        width: 90%;
+    }
+    #banner-part .banner .overlay h3::after{
+        left: -114%;
+        width: 102%;
+    }
+    #banner-part .banner .overlay h1::before{
+        right: 20%;
+    }
+    #banner-part .banner .overlay h1::after{
+        left: 20%;
+    }
+   
+    #banner-part .banner .overlay p::before{
+        width: 18%;
+       
+    }
+    #banner-part .banner .overlay p::after{
+        width: 22%;
+        left: -5%;
+    }
+    
+    .title {
+	margin-top: 30px;
+}
+    
+    
+    #gallery-part {
+	margin-top: 40px;
+    }
+    
+    #team-part .member img {
+	margin-top: 40px;
+}
+    #team-part .title {
+	margin-bottom: 0px;
+
+    }
+    #team-part .member .text p{
+        width: 217px;
+        padding: 0 9px;
+        font-size: 12px;
+    }
+    
+    
+    
+    
+    #testi-part .testi .overlay .top{
+        padding-left: 25px;
+    }
+    #testi-part .testi .overlay .bottom{
+        padding-left: 25px;
+    }
+    #membership-part .regular {
+	margin-top: 20px;
+}
+    #membership-part .regular h2{
+        font-size: 17px;
+    }
+    #membership-part .price .overlay p{
+        font-size: 25px;
+    }
+    #membership-part .price1 .overlay p{
+        font-size: 25px;
+    }
+    #membership-part .price2 .overlay p{
+        font-size: 25px;
+    }
+    
+    
+    #membership-part .price .overlay p span{
+        font-size: 25px;
+    }
+    
+    class-part .item{
+        width: 23.5%;
+    }
+    #class-part .colorful-tab-menu li{
+        width: 15.5%;
+    } 
+    
+    #membership-part .price1 .overlay p span{
+        font-size: 25px;
+    }
+    
+    
+    #membership-part .price2 .overlay p span{
+        font-size: 25px;
+    }
+    
+    #membership-part ul li{
+        padding-top: 20px;
+    }
+    
+    .colorful-tab-menu{
+        display: block ruby;
+    }
+    #class-part .item{
+        width: 31.9%;
+    }
+    
+    #sponser-part .slick-slide img{
+        margin: 0 auto;
+    }
+    
+    #sponser-part .next{
+        right: 60px;
+    }
+    #sponser-part .prev{
+        left: 60px;
+    }
+    #footer-part .overlay .copy {
+	padding-top: 26px;
+	margin-top: 35px;
+}
+    #team-part .member{
+        margin-top: 50px;
+    } 
+    #sponser-part .prev{
+        left: -12px;
+    }
+    
+    #sponser-part .next{
+        right: -12px;
+    }
+    #footer-part .overlay .photo img{
+        margin: 3px;
+    }
+    #footer-part .overlay .photo{
+        justify-content: flex-start;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+/*=================extra large device======================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
